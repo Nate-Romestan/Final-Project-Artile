@@ -13,7 +13,7 @@ body {
 /* Hero Section with Parallax */
 .hero {
     height: 100vh;
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlzbRy8B0ZzLG3Ije2O1-FWyQNzA25kNGwdg&s');
+    background-image: url('refpoint.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -111,11 +111,11 @@ body {
 }
 
 .divider1 {
-    background-image: url('yellow-flag.png');
+    background-image: url('marv.jpg');
 }
 
 .divider2 {
-    background-image: url('football-field.jpg');
+    background-image: url('refereeunder.jpg');
 }
 
 /* Pull Quotes */
